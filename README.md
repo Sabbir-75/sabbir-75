@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Banner Image -->
+![Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 
-<!--
-**Sabbir-75/sabbir-75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Md Sabbir Hossain  
+### Frontend Developer | React, JavaScript, Node.js, MongoDB  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+I am a passionate Frontend Developer focused on building modern, scalable, and user-friendly web applications. I enjoy solving problems and continuously learning new technologies to improve my skills.
+
+---
+
+## Current Activities  
+- Exploring Next.js and improving React skills.  
+- Working on a Tourism Management website project.  
+- Learning backend optimizations with Node.js.  
+
+---
+
+## Skills  
+
+### Frontend  
+![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+
+### Backend  
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express](https://img.icons8.com/ios-filled/48/000000/express-js.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+
+### Tools  
+![Git](https://img.icons8.com/color/48/000000/git.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
+
+---
+
+## Connect with Me  
+
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/mdsabbirhossain9200)  
+[![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/mdsabbirhossain9200)  
+[![Twitter](https://img.icons8.com/color/30/000000/twitter--v1.png)](https://twitter.com/mdsabbirhossain92)  
+
+---
+
+## GitHub Stats  
+![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsabbirhossain9200&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbirhossain9200&layout=compact&theme=radical)
+
+---
+
+*Thank you for visiting my profile!*  
+
