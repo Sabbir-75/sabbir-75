@@ -1,43 +1,47 @@
 <!-- Banner Image -->
-![Hey there, I’m Sabbir — A passionate Web Developer crafting modern, responsive, and user-friendly digital experiences.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<!-- Banner Image -->
+<img src="https://i.ibb.co/7CzYh2J/github-banner.png" alt="Banner" width="100%">
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
-
-# Md Sabbir Hossain  
-### Frontend Developer | React, JavaScript, Node.js, MongoDB  
-
----
-
-## About Me  
-I am a passionate Frontend Developer focused on building modern, scalable, and user-friendly web applications. I enjoy solving problems and continuously learning new technologies to improve my skills.
+# 👋 Hey there, I'm Md Sabbir Hossain  
+### 💻 Web Developer  
 
 ---
 
-## Current Activities  
-- Exploring Next.js and improving React skills.  
-- Working on a Tourism Management website project.  
-- Learning backend optimizations with Node.js.  
+## 🧑‍💼 About Me  
+I’m a passionate Web Developer who loves crafting modern, responsive, and user-friendly digital experiences.  
+I enjoy working on **Tourism Management Systems, E-Commerce Platforms, School Management Systems, and Online Shops**.  
+Always eager to learn and explore new technologies while keeping projects clean, efficient, and creative.
 
 ---
 
-## Skills  
-
-### Frontend  
-![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-
-### Backend  
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express](https://img.icons8.com/ios-filled/48/000000/express-js.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-
-### Tools  
-![Git](https://img.icons8.com/color/48/000000/git.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
+## 🚀 Current Activities  
+- Building **Tourism Management** and **E-Commerce** projects.  
+- Exploring advanced concepts in **React.js** and **Node.js**.  
+- Improving backend API development with **Express.js** and **MongoDB**.  
 
 ---
 
-## Connect with Me  
+## 🛠 Skills  
 
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/mdsabbirhossain9200)  
-[![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/mdsabbirhossain9200)  
-[![Twitter](https://img.icons8.com/color/30/000000/twitter--v1.png)](https://twitter.com/mdsabbirhossain92)  
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000)  
+
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)  
+
+### **Tools & Others**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/md-sabbir75)  
+
+📞 **Mobile:** 01756750000  
+
 
 ---
 
@@ -47,6 +51,13 @@ I am a passionate Frontend Developer focused on building modern, scalable, and u
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 </div>
+
+
+![Md Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSabbirHossain&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSabbirHossain&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdSabbirHossain&theme=radical)
 
 ---
 
