@@ -53,12 +53,6 @@ Always eager to learn and explore new technologies while keeping projects clean,
 </div>
 
 
-![Md Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSabbirHossain&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSabbirHossain&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdSabbirHossain&theme=radical)
-
 ---
 
 *Thank you for visiting my profile!*  
