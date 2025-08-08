@@ -28,7 +28,7 @@ Always eager to learn and explore new technologies while keeping projects clean,
 ## 🛠 Skills  
 
 ### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000)  
 
 ### **Backend**  
