@@ -12,7 +12,7 @@
 ---
 
 ## 🧑‍💼 About Me  
-I’m a passionate Web Developer who loves crafting modern, responsive, and user-friendly digital experiences.  
+I’m a passionate Frontend Web Developer who loves crafting modern, responsive, and user-friendly digital experiences.  
 I enjoy working on **Tourism Management Systems, E-Commerce Platforms, School Management Systems, and Online Shops**.  
 Always eager to learn and explore new technologies while keeping projects clean, efficient, and creative.
 
